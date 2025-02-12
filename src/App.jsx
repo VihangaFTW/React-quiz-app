@@ -7,7 +7,7 @@ function App() {
       <Header />
       <main>
         <Quiz />
-      </main>
+      </main>   
     </>
   );
 }
